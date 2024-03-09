@@ -147,8 +147,6 @@ margin-right: 0;
     }
 }
 
-
-
 @media (hover:hover){
     .header__list a:hover {
         color: red;
@@ -193,9 +191,6 @@ margin-right: 0;
         line-height: 100%;
     }
 }
- 
-
-
 
 @media (max-width: 620px){
     .menu__btn {
@@ -250,8 +245,6 @@ margin-right: 0;
         justify-content: space-evenly;
         text-align: center;
     }
-   
-
 }
 
 
